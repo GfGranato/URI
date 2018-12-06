@@ -1,2 +1,2 @@
 # URI
-Exercícios do  URI/iniciante resolvidos por em Python 3.4
+Exercícios do  URI/iniciante resolvidos em Python 3.4
